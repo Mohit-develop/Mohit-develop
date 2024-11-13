@@ -1,0 +1,42 @@
+.container{
+    border-radius: 16px;
+    border: 2px solid white;
+    padding: 20px;
+    width: 25%;
+}
+.text-center{
+text-align: center;
+color: aliceblue;
+span{
+    color: #00abf0;
+}
+}
+.mx-auto{
+margin: auto;
+}
+.flex {
+display: flex;
+}
+.flex-col{
+flex-direction: column;
+}
+.item-center{
+    align-items: center;
+
+}
+.row{
+    margin: 8px 0;
+    button{
+color:solid black;
+font-size: 20px;
+    }
+
+}
+.row input{
+    width: 291px;
+    font-size: 20px;
+    margin: 0;
+padding: 10px 0px;
+border-radius: 5px;
+border:2px solid black ;
+}
